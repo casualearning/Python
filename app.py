@@ -2,7 +2,7 @@ import function
 
 field_list = [' ',' ',' ',' ',' ',' ',' ',' ',' ']
 print('field reference')
-print('1|2|3\n-----4|5|6\n-----7|8|9')
+print('1|2|3\n-----\n4|5|6\n-----\n7|8|9')
 
 print(field_list[0] + '|' + field_list[1] + '|' + field_list[2] +'\n-----\n'
      + field_list[3] + '|' + field_list[4] + '|' + field_list[5] +'\n-----\n'
